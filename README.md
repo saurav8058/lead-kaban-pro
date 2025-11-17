@@ -1,3 +1,9 @@
+step to import project 
+-- git clone https://github.com/saurav8058/lead-kaban-pro.git
+ npm i 
+ npm run dev
+
+
 <<<<<<< HEAD
 # React + TypeScript + Vite
 
